@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "id": "sample-app",
+      "name": "Sample App",
+      "author": "Open-KaiStore",
+      "description": "A sample app for the Open-KaiStore",
+      "icon": "https://raw.githubusercontent.com/open-kaistore/registry/main/icons/sample-56.png",
+      "type": "packaged",
+      "download_url": "https://github.com/open-kaistore/sample-app/releases/download/v1.0/app.zip"
+    }
+  ]
+}
