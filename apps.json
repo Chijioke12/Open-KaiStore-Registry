@@ -1,0 +1,31 @@
+{
+  "apps": [
+    {
+      "id": "kaireader",
+      "name": "KaiReader",
+      "author": "YourName",
+      "description": "Text Reader with Search",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/kaireader-icon-112.png",
+      "type": "packaged",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaireader.zip"
+    },
+    {
+      "id": "crusade-prayers",
+      "name": "Crusade Prayers",
+      "author": "Unknown",
+      "description": "Daily Prayers Scraper",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/crusade-prayers-icon-112.png",
+      "type": "packaged",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/crusade-prayers.zip"
+    },
+    {
+      "id": "site-manager",
+      "name": "Site Manager",
+      "author": "Your Name or Organization",
+      "description": "Manage sites, pages, and deployments from your device. Tools for quick edits, status checks, and content publishing.",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/site-manager-icon-112.png",
+      "type": "packaged",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/site-manager.zip"
+    }
+  ]
+}

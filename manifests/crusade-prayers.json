@@ -1,0 +1,11 @@
+{
+  "name": "Crusade Prayers",
+  "description": "Daily Prayers Scraper",
+  "developer": {
+    "name": "Unknown"
+  },
+  "icons": {
+    "112": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/crusade-prayers-icon-112.png"
+  },
+  "package_path": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/crusade-prayers.zip"
+}

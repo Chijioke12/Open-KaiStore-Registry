@@ -1,0 +1,11 @@
+{
+  "name": "KaiReader",
+  "description": "Text Reader with Search",
+  "developer": {
+    "name": "YourName"
+  },
+  "icons": {
+    "112": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/kaireader-icon-112.png"
+  },
+  "package_path": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaireader.zip"
+}
