@@ -7,7 +7,8 @@
       "description": "Text Reader with Search",
       "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/kaireader-icon-112.png",
       "type": "packaged",
-      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaireader.zip"
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaireader.zip",
+      "manifest_url": "https://Chijioke12.github.io/Open-KaiStore-Registry/manifests/kaireader.webapp"
     },
     {
       "id": "crusade-prayers",
@@ -16,25 +17,8 @@
       "description": "Daily Prayers Scraper",
       "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/crusade-prayers-icon-112.png",
       "type": "packaged",
-      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/crusade-prayers.zip"
-    },
-    {
-      "id": "kaios-2048",
-      "name": "KaiOS 2048",
-      "author": "AI Studio",
-      "description": "A 2048 game optimized for KaiOS.",
-      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/kaios-2048-icon-128.png",
-      "type": "packaged",
-      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaios-2048.zip"
-    },
-    {
-      "id": "sultan-gem-match-2",
-      "name": "Sultan Gem Match 2",
-      "author": "Black Sheep Games",
-      "description": "Use the D-Pad to move around the grid and Middle/5 to interact with the selected gem. You must match 3 or more gems of the same color together and collect the required gems before the time runs out, in order to win each of the new 100 total levels. Connect the gems and test your matching skills in this fun puzzle game!",
-      "icon": "https://chijioke12.github.io/sultan/112.png",
-      "type": "hosted",
-      "manifest_url": "https://chijioke12.github.io/sultan/manifest.webapp"
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/crusade-prayers.zip",
+      "manifest_url": "https://Chijioke12.github.io/Open-KaiStore-Registry/manifests/crusade-prayers.webapp"
     }
   ]
 }
