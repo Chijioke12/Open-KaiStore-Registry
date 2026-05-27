@@ -19,15 +19,6 @@
       "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/crusade-prayers.zip"
     },
     {
-      "id": "site-manager",
-      "name": "Site Manager",
-      "author": "Your Name or Organization",
-      "description": "Manage sites, pages, and deployments from your device. Tools for quick edits, status checks, and content publishing.",
-      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/site-manager-icon-112.png",
-      "type": "packaged",
-      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/site-manager.zip"
-    },
-    {
       "id": "kaios-2048",
       "name": "KaiOS 2048",
       "author": "AI Studio",
