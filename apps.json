@@ -1,1 +1,14 @@
-{}
+{
+  "apps": [
+    {
+      "id": "kaireader",
+      "name": "KaiReader",
+      "author": "YourName",
+      "description": "Text Reader with Search",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/kaireader-icon-112.png",
+      "type": "packaged",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaireader.zip",
+      "manifest_url": "https://Chijioke12.github.io/Open-KaiStore-Registry/manifests/kaireader.webapp"
+    }
+  ]
+}
