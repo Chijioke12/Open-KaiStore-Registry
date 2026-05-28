@@ -35,7 +35,8 @@
       "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/naija-whot-icon-512.png",
       "type": "packaged",
       "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/naija-whot.webapp",
-      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/naija-whot.zip"
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/naija-whot.zip",
+      "version": "1.0.1"
     }
   ]
 }
