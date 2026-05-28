@@ -5,10 +5,9 @@
       "name": "Archive Pro",
       "author": "YourName",
       "description": "Premium downloader and streamer for Archive.org",
-      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/archive-pro-icon-112.png",
+      "icon": "",
       "type": "packaged",
-      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/archive-pro.zip",
-      "manifest_url": "https://Chijioke12.github.io/Open-KaiStore-Registry/manifests/archive-pro.webapp"
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/archive-pro.zip"
     }
   ]
 }
