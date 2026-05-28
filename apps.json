@@ -17,6 +17,15 @@
       "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/crusade-prayers-icon-112.png",
       "type": "packaged",
       "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/crusade-prayers.zip"
+    },
+    {
+      "id": "naija-whot",
+      "name": "Naija Whot",
+      "author": "Naija Whot",
+      "description": "Classic African Whot card game.",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/naija-whot-icon-512.png",
+      "type": "packaged",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/naija-whot.zip"
     }
   ]
 }
