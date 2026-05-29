@@ -47,7 +47,8 @@
       "type": "packaged",
       "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/snake-evolved.webapp",
       "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/snake-evolved.zip",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "category": "Games"
     }
   ]
 }
