@@ -106,6 +106,20 @@
       "category": "Utilities",
       "size": "14.82 KB",
       "size_raw": 15171
+    },
+    {
+      "id": "kaibible",
+      "name": "KaiBible",
+      "author": "Chijioke Uwaefulem",
+      "description": "A fast, offline-resilient Bible reader for KaiOS.",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/kaibible-icon-112.png",
+      "type": "packaged",
+      "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/kaibible.webapp",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaibible.zip",
+      "version": "1.0.0",
+      "category": "Utilities",
+      "size": "82.98 KB",
+      "size_raw": 84976
     }
   ]
 }
