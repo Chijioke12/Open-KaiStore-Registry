@@ -120,6 +120,20 @@
       "category": "Utilities",
       "size": "82.98 KB",
       "size_raw": 84976
+    },
+    {
+      "id": "archive-search",
+      "name": "Archive Search",
+      "author": "KaiOS Developer",
+      "description": "Discover, search, and download public domain books, music, videos, and software directly from the Internet Archive.",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/archive-search-icon-128.png",
+      "type": "packaged",
+      "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/archive-search.webapp",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/archive-search.zip",
+      "version": "1.0.0",
+      "category": "Education",
+      "size": "54.62 KB",
+      "size_raw": 55932
     }
   ]
 }
