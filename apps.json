@@ -50,6 +50,20 @@
       "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/snake-evolved.zip",
       "version": "1.0.0",
       "category": "Games"
+    },
+    {
+      "id": "kaios-2048",
+      "name": "KaiOS 2048",
+      "author": "AI Studio",
+      "description": "A 2048 game optimized for KaiOS.",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/kaios-2048-icon-128.png",
+      "type": "packaged",
+      "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/kaios-2048.webapp",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaios-2048.zip",
+      "version": "1.0.0",
+      "category": "Games",
+      "size": "65.48 KB",
+      "size_raw": 67055
     }
   ]
 }
