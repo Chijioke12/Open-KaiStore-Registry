@@ -1,8 +1,0 @@
-{
-  "name": "Wikipedia",
-  "package_path": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/wikipedia.zip",
-  "version": "1.0.0",
-  "developer": {
-    "name": "Wikipedia foundation"
-  }
-}
