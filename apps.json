@@ -78,6 +78,20 @@
       "category": "Books",
       "size": "21.08 KB",
       "size_raw": 21584
+    },
+    {
+      "id": "kaitube",
+      "name": "Kaitube",
+      "author": "Kaitube Developer",
+      "description": "YouTube client for KaiOS",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/kaitube-icon-112.png",
+      "type": "packaged",
+      "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/kaitube.webapp",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaitube.zip",
+      "version": "1.0.0",
+      "category": "Utilities",
+      "size": "54.36 KB",
+      "size_raw": 55662
     }
   ]
 }
