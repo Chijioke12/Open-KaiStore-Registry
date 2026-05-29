@@ -134,20 +134,6 @@
       "category": "Education",
       "size": "54.62 KB",
       "size_raw": 55932
-    },
-    {
-      "id": "wikipedia",
-      "name": "Wikipedia",
-      "author": "Wikipedia foundation",
-      "description": "A good and structured Wikipedia client for kaios",
-      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/wikipedia-icon-128.png",
-      "type": "packaged",
-      "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/wikipedia.webapp",
-      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/wikipedia.zip",
-      "version": "1.0.0",
-      "category": "Books",
-      "size": "21.03 KB",
-      "size_raw": 21537
     }
   ]
 }
