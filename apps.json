@@ -92,6 +92,20 @@
       "category": "Utilities",
       "size": "54.36 KB",
       "size_raw": 55662
+    },
+    {
+      "id": "kaivideo",
+      "name": "KaiVideo",
+      "author": "Unknown",
+      "description": "A lightweight local video player optimized for KaiOS 2.5 navigation.",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/kaivideo-icon-112.png",
+      "type": "packaged",
+      "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/kaivideo.webapp",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaivideo.zip",
+      "version": "1.0.0",
+      "category": "Utilities",
+      "size": "14.82 KB",
+      "size_raw": 15171
     }
   ]
 }
