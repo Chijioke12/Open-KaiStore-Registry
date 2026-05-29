@@ -37,16 +37,6 @@
       "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/naija-whot.webapp",
       "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/naija-whot.zip",
       "version": "1.0.6"
-    },
-    {
-      "id": "archive-search",
-      "name": "Archive Search",
-      "author": "KaiOS Developer",
-      "description": "Discover, search, and download public domain books, music, videos, and software directly from the Internet Archive.",
-      "icon": "https://archive-search-107870962257.europe-west2.run.app/archive-search/icon-128.png",
-      "type": "hosted",
-      "manifest_url": "https://archive-search-107870962257.europe-west2.run.app/manifest.webapp",
-      "version": "1.0.0"
     }
   ]
 }
