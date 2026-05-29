@@ -64,6 +64,20 @@
       "category": "Games",
       "size": "65.48 KB",
       "size_raw": 67055
+    },
+    {
+      "id": "kaidictionary",
+      "name": "KaiDictionary",
+      "author": "Your Name",
+      "description": "An offline dictionary app for quick word definitions on KaiOS devices.",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/kaidictionary-icon-112.png",
+      "type": "packaged",
+      "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/kaidictionary.webapp",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaidictionary.zip",
+      "version": "1.0.0",
+      "category": "Books",
+      "size": "21.08 KB",
+      "size_raw": 21584
     }
   ]
 }
