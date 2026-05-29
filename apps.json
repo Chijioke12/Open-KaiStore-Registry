@@ -37,6 +37,17 @@
       "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/naija-whot.webapp",
       "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/naija-whot.zip",
       "version": "1.0.6"
+    },
+    {
+      "id": "snake-evolved",
+      "name": "Snake Evolved",
+      "author": "Chiboy Dev",
+      "description": "Epic snake game with 4 biomes and 3 snake tiers",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/snake-evolved-icon-112.png",
+      "type": "packaged",
+      "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/snake-evolved.webapp",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/snake-evolved.zip",
+      "version": "1.0.0"
     }
   ]
 }
