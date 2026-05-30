@@ -148,19 +148,6 @@
       "category": "Books",
       "size": "22.16 KB",
       "size_raw": 22695
-    },
-    {
-      "id": "chronobee",
-      "name": "ChronoBee",
-      "author": "KaiOSphere Games",
-      "description": "Navigate the quantum grid field. Escape security barriers utilizing color shields and hyper boosters on a fully compatible retro KaiOS setup.",
-      "icon": "https://chijioke12.github.io/icons/icon-512.png",
-      "type": "hosted",
-      "manifest_url": "https://chijioke12.github.io/Chronobee/manifest.webapp",
-      "version": "1.0.0",
-      "category": "Utilities",
-      "size": "Hosted",
-      "size_raw": 0
     }
   ]
 }
