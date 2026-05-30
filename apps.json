@@ -151,16 +151,17 @@
     },
     {
       "id": "chronobee",
-      "name": "ChronoBee",
-      "author": "KaiOSphere Games",
-      "description": "Navigate the quantum grid field. Escape security barriers utilizing color shields and hyper boosters on a fully compatible retro KaiOS setup.",
-      "icon": "https://chijioke12.github.io/icons/icon-512.png",
-      "type": "hosted",
-      "manifest_url": "https://chijioke12.github.io/Chronobee/manifest.webapp",
+      "name": "Chronobee",
+      "author": "Creator",
+      "description": "Companion app wrapper for Chronobee.",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/chronobee-icon-128.png",
+      "type": "packaged",
+      "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/chronobee.webapp",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/chronobee.zip",
       "version": "1.0.0",
       "category": "Games",
-      "size": "Hosted",
-      "size_raw": 0
+      "size": "21.79 KB",
+      "size_raw": 22312
     }
   ]
 }
