@@ -162,6 +162,20 @@
       "category": "Games",
       "size": "20.2 KB",
       "size_raw": 20683
+    },
+    {
+      "id": "flappy-kaios",
+      "name": "Flappy KaiOS",
+      "author": "Local",
+      "description": "A lightweight Phaser 2 flappy game for KaiOS.",
+      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/flappy-kaios-icon-112.png",
+      "type": "packaged",
+      "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/flappy-kaios.webapp",
+      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/flappy-kaios.zip",
+      "version": "1.0.0",
+      "category": "Games",
+      "size": "262.88 KB",
+      "size_raw": 269194
     }
   ]
 }
