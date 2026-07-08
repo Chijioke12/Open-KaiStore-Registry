@@ -186,10 +186,10 @@
       "type": "packaged",
       "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/kaicube-3d.webapp",
       "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaicube-3d.zip",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Games",
-      "size": "849.09 KB",
-      "size_raw": 869469,
+      "size": "2.75 MB",
+      "size_raw": 2883133,
       "origin": "app://kaicube.kaios"
     }
   ]
