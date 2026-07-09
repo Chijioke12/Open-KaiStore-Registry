@@ -178,21 +178,6 @@
       "size_raw": 269194
     },
     {
-      "id": "naija-whot-hd",
-      "name": "Naija Whot HD",
-      "author": "KaiOS Developer",
-      "description": "A classic Naija Whot card game rebuilt with Phaser 3.",
-      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/naija-whot-hd-icon-112.png",
-      "type": "packaged",
-      "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/naija-whot-hd.webapp",
-      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/naija-whot-hd.zip",
-      "version": "1.0.0",
-      "category": "Games",
-      "size": "1.83 MB",
-      "size_raw": 1914680,
-      "origin": "app://naija-whot-hd"
-    },
-    {
       "id": "kaicube-3d",
       "name": "KaiCube 3D",
       "author": "KaiCube Dev",
