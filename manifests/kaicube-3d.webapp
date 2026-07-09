@@ -1,9 +1,0 @@
-{
-  "name": "KaiCube 3D",
-  "package_path": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaicube-3d.zip",
-  "version": "1.0.1",
-  "developer": {
-    "name": "KaiCube Dev"
-  },
-  "origin": "app://kaicube.kaios"
-}
