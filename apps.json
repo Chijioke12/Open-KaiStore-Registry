@@ -178,21 +178,6 @@
       "size_raw": 269194
     },
     {
-      "id": "kaicube-3d",
-      "name": "KaiCube 3D",
-      "author": "KaiCube Dev",
-      "description": "3D Rubik's Cube game for KaiOS",
-      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/kaicube-3d-icon-112.png",
-      "type": "packaged",
-      "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/kaicube-3d.webapp",
-      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/kaicube-3d.zip",
-      "version": "1.0.1",
-      "category": "Games",
-      "size": "2.75 MB",
-      "size_raw": 2883133,
-      "origin": "app://kaicube.kaios"
-    },
-    {
       "id": "naija-whot-hd",
       "name": "Naija Whot HD",
       "author": "KaiOS Developer",
