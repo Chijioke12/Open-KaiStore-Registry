@@ -1,8 +1,9 @@
 {
   "name": "Naija Whot",
-  "package_path": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/naija-whot.zip",
-  "version": "1.0.6",
+  "package_path": "https://chijioke12.github.io/Open-KaiStore-Registry/apps/naija-whot.zip",
+  "version": "1.0.0",
   "developer": {
-    "name": "Naija Whot"
-  }
+    "name": "Naija Whot Team"
+  },
+  "origin": "app://naijawhot"
 }

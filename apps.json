@@ -30,14 +30,17 @@
     {
       "id": "naija-whot",
       "name": "Naija Whot",
-      "author": "Naija Whot",
-      "description": "Classic African Whot card game.",
-      "icon": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/icons/naija-whot-icon-512.png",
+      "author": "Naija Whot Team",
+      "description": "Retro Naija Whot card game optimized for smart feature phones running KaiOS.",
+      "icon": "https://chijioke12.github.io/Open-KaiStore-Registry/icons/naija-whot-icon-128.png",
       "type": "packaged",
-      "manifest_url": "https://raw.githack.com/Chijioke12/Open-KaiStore-Registry/main/manifests/naija-whot.webapp",
-      "download_url": "https://raw.githubusercontent.com/Chijioke12/Open-KaiStore-Registry/main/apps/naija-whot.zip",
-      "version": "1.0.6",
-      "category": "Games"
+      "manifest_url": "https://chijioke12.github.io/Open-KaiStore-Registry/manifests/naija-whot.webapp",
+      "download_url": "https://chijioke12.github.io/Open-KaiStore-Registry/apps/naija-whot.zip",
+      "version": "1.0.0",
+      "category": "Games",
+      "size": "2.21 MB",
+      "size_raw": 2320157,
+      "origin": "app://naijawhot"
     },
     {
       "id": "snake-evolved",
